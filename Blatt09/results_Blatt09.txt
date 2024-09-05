@@ -1,0 +1,51 @@
+datsose24,  27.06.2024, 00:33:42, 8f6494bad0ab68a33d8def89196babe613651f5f
+Korrektur Blatt 09
+
+Aufgabe 3.1
+	Test output of manhattan() on complex boards: 5/5
+	Test output of manhattan() on medium complex boards: 5/5
+	Test output of manhattan() on simple boards: 5/5
+Total points for Aufgabe 3.1: 15/15
+
+Aufgabe 3.2
+	Test output of compareTo() on fresh PartialSolutions (without performing moves): 4/4
+	Test output of compareTo() on PartialSolutions after performing moves: 4/4
+	Test the copy constructor (requires doMove() and isSolution() to work): 4/4
+	Test doMove() (requires isSolution() to work): 4/4
+	Test output of isSolution(): 4/4
+	Test output of moveSequence(): 1/1
+	Test output of validMoves(): 4/4
+Total points for Aufgabe 3.2: 25/25
+
+Aufgabe 3.3
+	Test solveByAStar() with moderate 3x3 boards: 0/10
+	  java.lang.Error: Unresolved compilation problem: 
+	This method must return a result of type PartialSolution
+
+	Test solveByAStar() with simple 3x3 boards: 0/10
+	  java.lang.Error: Unresolved compilation problem: 
+	This method must return a result of type PartialSolution
+
+	Test solveByAStar() with moderate 4x4 boards: 0/10
+	  java.lang.Error: Unresolved compilation problem: 
+	This method must return a result of type PartialSolution
+
+	Test solveByAStar() with simple 4x4 boards: 0/10
+	  java.lang.Error: Unresolved compilation problem: 
+	This method must return a result of type PartialSolution
+
+	Test solveByAStar() with moderate 5x5 boards: 0/10
+	  java.lang.Error: Unresolved compilation problem: 
+	This method must return a result of type PartialSolution
+
+	Test solveByAStar() with hard 6x6 boards: 0/5
+	  java.lang.Error: Unresolved compilation problem: 
+	This method must return a result of type PartialSolution
+
+	Test solveByAStar() with simple non-quadratic boards: 0/5
+	  java.lang.Error: Unresolved compilation problem: 
+	This method must return a result of type PartialSolution
+
+Total points for Aufgabe 3.3: 0/60
+
+Total points: 40/100
